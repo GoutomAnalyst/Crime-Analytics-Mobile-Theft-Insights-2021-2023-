@@ -42,3 +42,6 @@ Edit
 Explore the dashboards to analyze theft trends.
 Filter by location, brand, and theft method for deeper insights.
 Use insights to identify crime-prone areas & prevention strategies.
+
+![image](https://github.com/user-attachments/assets/06d79f2c-77e7-469d-975a-d887fd6792f2)
+
